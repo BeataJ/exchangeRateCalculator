@@ -17,3 +17,11 @@ body {
   margin: 0;
   padding: 20px;
 }
+
+h1 {
+  color: var(--primary-color);
+}
+
+p {
+  text-align: center;
+}
