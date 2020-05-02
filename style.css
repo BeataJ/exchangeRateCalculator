@@ -25,3 +25,8 @@ h1 {
 p {
   text-align: center;
 }
+
+.btn {
+  color: #fff;
+  background: var(--primary-color);
+}
