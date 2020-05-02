@@ -29,4 +29,9 @@ p {
 .btn {
   color: #fff;
   background: var(--primary-color);
+  cursor: pointer;
+  border-radius: 5px;
+  border: var(--primary-color) solid 2px;
+  font-size: 12px;
+  padding: 5px 12px;
 }
